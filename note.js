@@ -17,4 +17,10 @@
  * ---------------------------
  * MODULE 3.
  * ----------------------------
+ * Browser practice task (browser-practice.js)
+ *
+ * -----------------------------
+ * MODULE 4.
+ * -----------------------------
+ * console utils api (https://developer.chrome.com/docs/devtools/console/utilities/)
  */
