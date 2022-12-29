@@ -25,4 +25,9 @@
  * Regular expression (regEx)
  * what is DOMContentLoaded?
  * console utils api (https://developer.chrome.com/docs/devtools/console/utilities/)
+ *
+ * ------------------------------
+ * MODULE 5.
+ * ------------------------------
+ *
  */
